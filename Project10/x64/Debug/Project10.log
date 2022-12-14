@@ -1,0 +1,24 @@
+﻿  MyForm.cpp
+C:\Users\Kalp Shah\source\repos\Project10\MyForm.h(50,42): error C2086: 'System::Windows::Forms::Label ^Project10::MyForm::label3': redefinition
+C:\Users\Kalp Shah\source\repos\Project10\MyForm.h(51,44): error C2086: 'System::Windows::Forms::TextBox ^Project10::MyForm::textBox2': redefinition
+C:\Users\Kalp Shah\source\repos\Project10\MyForm.h(52,43): error C2086: 'System::Windows::Forms::Button ^Project10::MyForm::button5': redefinition
+C:\Users\Kalp Shah\source\repos\Project10\MyForm.h(53,42): error C2086: 'System::Windows::Forms::Label ^Project10::MyForm::label3': redefinition
+C:\Users\Kalp Shah\source\repos\Project10\MyForm.h(55,44): error C2086: 'System::Windows::Forms::TextBox ^Project10::MyForm::textBox2': redefinition
+C:\Users\Kalp Shah\source\repos\Project10\MyForm.h(56,42): error C2086: 'System::Windows::Forms::Label ^Project10::MyForm::label3': redefinition
+C:\Users\Kalp Shah\source\repos\Project10\MyForm.h(57,44): error C2086: 'System::Windows::Forms::TextBox ^Project10::MyForm::textBox2': redefinition
+C:\Users\Kalp Shah\source\repos\Project10\MyForm.h(58,42): error C2086: 'System::Windows::Forms::Label ^Project10::MyForm::label3': redefinition
+C:\Users\Kalp Shah\source\repos\Project10\MyForm.h(183,69): error C2039: 'label3_Click': is not a member of 'Project10::MyForm'
+C:\Users\Kalp Shah\source\repos\Project10\MyForm.h(17): message : see declaration of 'Project10::MyForm'
+C:\Users\Kalp Shah\source\repos\Project10\MyForm.h(183,1): error C2065: 'label3_Click': undeclared identifier
+C:\Users\Kalp Shah\source\repos\Project10\MyForm.h(183,1): error C3924: error in argument #2 of delegate constructor call 'System::EventHandler':
+C:\Users\Kalp Shah\source\repos\Project10\MyForm.h(183,1): message : pointer to member function expected
+C:\Users\Kalp Shah\source\repos\Project10\MyForm.h(223,67): error C2039: 'textBox2_TextChanged': is not a member of 'Project10::MyForm'
+C:\Users\Kalp Shah\source\repos\Project10\MyForm.h(17): message : see declaration of 'Project10::MyForm'
+C:\Users\Kalp Shah\source\repos\Project10\MyForm.h(223,1): error C2065: 'textBox2_TextChanged': undeclared identifier
+C:\Users\Kalp Shah\source\repos\Project10\MyForm.h(223,1): error C3924: error in argument #2 of delegate constructor call 'System::EventHandler':
+C:\Users\Kalp Shah\source\repos\Project10\MyForm.h(223,1): message : pointer to member function expected
+C:\Users\Kalp Shah\source\repos\Project10\MyForm.h(231,36): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+C:\Users\Kalp Shah\source\repos\Project10\MyForm.h(359,36): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+C:\Users\Kalp Shah\source\repos\Project10\MyForm.cpp(8,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...

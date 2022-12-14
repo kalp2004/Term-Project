@@ -1,0 +1,2 @@
+Core-i7-12700K	I	97.71 	0	94.29	AlderLake	12/20	190	1	409	Corei7-12700k(opensinnewtab)
+Core-i5-12600K	I	90.89 	0	87.85	AlderLake	10/16	150	1	289	Corei5-12600K(opensinnewtab)
